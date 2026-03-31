@@ -1,25 +1,33 @@
 [
   {
     "id": "STU001",
-    "name": "Alice",
-    "major": "CS",
-    "enrolledCourses": [
-      "CS101"
-    ],
+    "name": "Alice Johnson",
+    "major": "Computer Science",
+    "enrolledCourses": [],
     "completedCourses": [
       "CS101"
     ]
   },
   {
     "id": "STU002",
-    "name": "Bob",
-    "major": "Math",
+    "name": "Bob Smith",
+    "major": "Mathematics",
     "enrolledCourses": [],
     "completedCourses": []
   },
   {
-    "id": "6688095",
-    "name": "Tinakome Rasripenngam",
+    "id": "STU003",
+    "name": "Carol Williams",
+    "major": "Information Technology",
+    "enrolledCourses": [],
+    "completedCourses": [
+      "CS101",
+      "CS201"
+    ]
+  },
+  {
+    "id": "6888123",
+    "name": "Chaiyong",
     "major": "SE",
     "enrolledCourses": [
       "CS101"
