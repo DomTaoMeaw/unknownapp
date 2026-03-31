@@ -1,0 +1,29 @@
+[
+  {
+    "id": "STU001",
+    "name": "Alice",
+    "major": "CS",
+    "enrolledCourses": [
+      "CS101"
+    ],
+    "completedCourses": [
+      "CS101"
+    ]
+  },
+  {
+    "id": "STU002",
+    "name": "Bob",
+    "major": "Math",
+    "enrolledCourses": [],
+    "completedCourses": []
+  },
+  {
+    "id": "6688095",
+    "name": "Tinakome Rasripenngam",
+    "major": "SE",
+    "enrolledCourses": [
+      "CS101"
+    ],
+    "completedCourses": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "code": "CS101",
+    "title": "Intro to Programming",
+    "credits": 3,
+    "capacity": 30,
+    "timeSlot": {
+      "days": "MWF",
+      "startTime": "09:00",
+      "endTime": "10:00"
+    },
+    "prerequisites": [],
+    "enrolledStudents": [
+      "STU001",
+      "6688095"
+    ]
+  },
+  {
+    "code": "CS201",
+    "title": "Data Structures",
+    "credits": 3,
+    "capacity": 25,
+    "timeSlot": {
+      "days": "MWF",
+      "startTime": "10:00",
+      "endTime": "11:00"
+    },
+    "prerequisites": [
+      "CS101"
+    ],
+    "enrolledStudents": []
+  },
+  {
+    "code": "MATH101",
+    "title": "Calculus I",
+    "credits": 4,
+    "capacity": 35,
+    "timeSlot": {
+      "days": "MWF",
+      "startTime": "09:00",
+      "endTime": "10:00"
+    },
+    "prerequisites": [],
+    "enrolledStudents": []
+  },
+  {
+    "code": "NET101",
+    "title": "Computer Networks",
+    "credits": 3,
+    "capacity": 2,
+    "timeSlot": {
+      "days": "TTh",
+      "startTime": "14:00",
+      "endTime": "15:30"
+    },
+    "prerequisites": [],
+    "enrolledStudents": []
+  }
+]
