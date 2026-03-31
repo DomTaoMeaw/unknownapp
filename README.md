@@ -46,3 +46,4 @@ flowchart TD
 ```
 
 ### Prompts
+"I selected the use case "Create New Student Profile", so your task is to create an equivalent Python version that allows users to input student ID, name, and major, store the data, and prevent duplicate IDs."
